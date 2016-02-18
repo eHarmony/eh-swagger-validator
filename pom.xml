@@ -134,11 +134,11 @@
         <jackson-version>2.4.5</jackson-version>
     </properties>
 
+
     <scm>
-        <connection>scm:git:git@github.corp.eharmony.com:matching/eh-swagger-validator.git</connection>
-        <url>git@github.corp.eharmony.com:matching/eh-swagger-validator.git</url>
-        <developerConnection>scm:git:git@github.corp.eharmony.com:matching/eh-swagger-validator.git
-        </developerConnection>
+        <connection>scm:git:git@github.com:eHarmony/eh-swagger-validator.git</connection>
+        <url>git@github.com:eHarmony/eh-swagger-validator.git</url>
+        <developerConnection>scm:git:git@github.com:eHarmony/eh-swagger-validator.git</developerConnection>
     </scm>
 
     <distributionManagement>
