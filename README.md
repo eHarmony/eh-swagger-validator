@@ -1,4 +1,4 @@
-# eh-swagger-validator
+# eh-swagger-validator  [![Build Status](https://travis-ci.org/eHarmony/eh-swagger-validator.svg?branch=master)](https://travis-ci.org/eHarmony/eh-swagger-validator)
 A fork of swagger-validator https://github.com/swagger-api/validator-badge as a jar so it can be served from an existing REST application
 
 # Swagger Validator Badge
