@@ -1,6 +1,7 @@
 # eh-swagger-validator  [![Build Status](https://travis-ci.org/eHarmony/eh-swagger-validator.svg?branch=master)](https://travis-ci.org/eHarmony/eh-swagger-validator)
 A fork of swagger-validator https://github.com/swagger-api/validator-badge as a jar so it can be served from an existing REST application
 
+
 # Swagger Validator Badge
 
 This project shows a "valid swagger" badge on your site.  There is an online version hosted on http://swagger.io.  You can also pull a docker image of the validator directly from [DockerHub](https://hub.docker.com/r/swaggerapi/swagger-validator/).
