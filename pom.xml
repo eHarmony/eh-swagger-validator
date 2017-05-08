@@ -4,7 +4,7 @@
     <artifactId>eh-swagger-validator</artifactId>
     <packaging>jar</packaging>
     <name>eh-swagger-validator</name>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
@@ -151,7 +151,7 @@
         <connection>scm:git:git@github.com:eHarmony/eh-swagger-validator.git</connection>
         <url>git@github.com:eHarmony/eh-swagger-validator.git</url>
         <developerConnection>scm:git:git@github.com:eHarmony/eh-swagger-validator.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>eh-swagger-validator-1.0.0</tag>
   </scm>
 
 </project>
